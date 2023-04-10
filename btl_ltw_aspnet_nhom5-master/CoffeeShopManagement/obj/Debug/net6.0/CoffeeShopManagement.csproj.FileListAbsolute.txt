@@ -1,0 +1,612 @@
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\appsettings.json
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.staticwebassets.runtime.json
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.exe
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.deps.json
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.runtimeconfig.json
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.dll
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.pdb
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.AssemblyReference.cache
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.AssemblyInfoInputs.cache
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.AssemblyInfo.cs
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.RazorAssemblyInfo.cache
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.RazorAssemblyInfo.cs
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\bundle\CoffeeShopManagement.styles.css
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\projectbundle\CoffeeShopManagement.bundle.scp.css
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.dll
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\refint\CoffeeShopManagement.dll
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.pdb
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.genruntimeconfig.cache
+E:\Ki2Nam3\Lap Trinh Web\BaiTapLon\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\ref\CoffeeShopManagement.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\appsettings.json
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.staticwebassets.runtime.json
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.exe
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.deps.json
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.runtimeconfig.json
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.pdb
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.AssemblyReference.cache
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.AssemblyInfoInputs.cache
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.AssemblyInfo.cs
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.RazorAssemblyInfo.cache
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.RazorAssemblyInfo.cs
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\bundle\CoffeeShopManagement.styles.css
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\projectbundle\CoffeeShopManagement.bundle.scp.css
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\refint\CoffeeShopManagement.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.pdb
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.genruntimeconfig.cache
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\ref\CoffeeShopManagement.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Azure.Identity.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Humanizer.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.CodeDom.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.CopyComplete
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\MessagePack.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Common.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ki2Nam3\LapTrinhWeb\CoffeeShop\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\appsettings.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.staticwebassets.runtime.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.exe
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.deps.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.runtimeconfig.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\CoffeeShopManagement.pdb
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Humanizer.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\MessagePack.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Build.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Common.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.CodeDom.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.AssemblyReference.cache
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.AssemblyInfoInputs.cache
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.AssemblyInfo.cs
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.RazorAssemblyInfo.cache
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.RazorAssemblyInfo.cs
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets\msbuild.CoffeeShopManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.CoffeeShopManagement.props
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeShopManagement.props
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoffeeShopManagement.props
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\bundle\CoffeeShopManagement.styles.css
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\scopedcss\projectbundle\CoffeeShopManagement.bundle.scp.css
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.csproj.CopyComplete
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\refint\CoffeeShopManagement.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.pdb
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.genruntimeconfig.cache
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\ref\CoffeeShopManagement.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\X.PagedList.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\obj\Debug\net6.0\CoffeeShopManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\X.PagedList.Web.Common.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Arraybracket.TypedViews.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Web.Razor.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\KI 6\Web\BTL\btl_ltw_aspnet_nhom5-master\CoffeeShopManagement\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll

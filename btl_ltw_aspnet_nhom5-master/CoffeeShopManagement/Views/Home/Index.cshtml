@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutCoffeeShop.cshtml";
+}
+
+@model List<SanPham>
+@foreach (var item in Model) {
+    <div class="col-xl-3">
+        <div class="menu_item">
+            <div class="menu_item_image">
+                <a href="" title="CloudFee Hạnh Nhân Nướng"><img class=" lazyloaded" src="../Images/HTV.jpeg"  alt=""></a>
+                <ul class="labels"></ul>
+            </div>
+            <div class="menu_item_info">
+                <h3><a href="/products/cloudfee-hanh-nhan-nuong" title="CloudFee Hạnh Nhân Nướng">@item.TenSanPham @item.Images </a></h3>
+                <div class="price_product_item">@item.GiaTien VND</div>
+            </div>
+        </div>
+    </div>
+}
